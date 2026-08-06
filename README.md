@@ -1,5 +1,5 @@
 👋 Hi, I'm Viresh Dhuri
-🚀 DevOps Enthusiast | Cloud Learner | Automation Explorer
+🚀 DevOps Enthusiast
 ----------------------------------------------------------------------------------------------
 🔥 About Me
 
@@ -9,32 +9,20 @@ My goal is to become a DevOps Engineer who builds scalable, reliable, and automa
 
 **Currently learning and working on**:
 CI/CD Pipelines using Jenkins
-AWS (EC2, S3, IAM, VPC)
-Docker & Containerization
-Git & GitHub workflows
+AWS 
+Docker and Kubernetes
+Terraform
+Git & GitHub
+Argo CD
 Linux & Shell Scripting
-----------------------------------------------------------------------------------------------
-🛠 Tech Stack
-
-💻 Languages: Python, Bash
-⚙️ DevOps Tools: Jenkins, Git, Docker
-☁️ Cloud: AWS (EC2, S3, IAM)
-🖥️ OS: Linux, Windows
-📦 Version Control: Git & GitHub
+Prometheus and Grafana
 ----------------------------------------------------------------------------------------------
 📌 Current Focus
 
 Building end-to-end CI/CD projects
 Deploying applications on AWS
 Infrastructure Automation
-Learning Kubernetes
-----------------------------------------------------------------------------------------------
-🚀 Projects
-
-🔹 CI/CD Pipeline using Jenkins + AWS
-🔹 Static Website Hosting with S3
-
-(More projects coming soon…)
+Learning Kubernetes and Terraform
 ----------------------------------------------------------------------------------------------
 📈 Career Objective
 
