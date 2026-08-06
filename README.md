@@ -8,14 +8,13 @@ I enjoy building CI/CD pipelines, automating deployments, and working with cloud
 My goal is to become a DevOps Engineer who builds scalable, reliable, and automated systems.
 
 **Currently learning and working on**:
-CI/CD Pipelines using Jenkins
-AWS 
-Docker and Kubernetes
-Terraform
-Git & GitHub
-Argo CD
-Linux & Shell Scripting
-Prometheus and Grafana
+- CI/CD Pipelines using Jenkins
+- AWS 
+- Docker and Kubernetes
+- Terraform
+- Argo CD
+- Linux & Shell Scripting
+- Prometheus and Grafana
 ----------------------------------------------------------------------------------------------
 📌 Current Focus
 
